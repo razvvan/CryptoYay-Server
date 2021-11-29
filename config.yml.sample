@@ -1,0 +1,5 @@
+chain_id: 44787
+network_url: https://alfajores-forno.celo-testnet.org
+network_name: Celo (Alfajores Testnet)
+private_key: df57bazbarbacf7ba0bc227dfoobar9fc08a93fdc68e1ebarbaz14efcf23656e
+contract_address: 0xfoobario
